@@ -6,7 +6,7 @@ const CONFIG = {
   SMTP_HOST: 'smtp.gmail.com',
   SMTP_PORT: 465,
   SMTP_SECURE: true,
-  DEFAULT_RECIPIENT: 'smb@support.whatsapp.com',
+  DEFAULT_RECIPIENT: 'support@support.whatsapp.com',
   LOG_FILE: __dirname + '/../email_logs.txt',
   VALID_KEYS: ['adminv2'] // 🔐 daftar key yang boleh
 }
